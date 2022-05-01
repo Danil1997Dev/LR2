@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Geralt/Desktop/LR2/LR2_TB_isim_beh.exe" -prj "C:/Users/Geralt/Desktop/LR2/LR2_TB_beh.prj" "work.LR2_TB" "work.glbl" 

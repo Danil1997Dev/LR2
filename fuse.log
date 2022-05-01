@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Geralt/Desktop/LR2/LR2_TB_isim_beh.exe -prj C:/Users/Geralt/Desktop/LR2/LR2_TB_beh.prj work.LR2_TB work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Geralt/Desktop/LR2/LR2_OUT.v" into library work
+Analyzing Verilog file "C:/Users/Geralt/Desktop/LR2/LR2.v" into library work
+Analyzing Verilog file "C:/Users/Geralt/Desktop/LR2/LR2_TB.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module LR2_OUT
+Compiling module LR2
+Compiling module LR2_TB
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 4 Verilog Units
+Built simulation executable C:/Users/Geralt/Desktop/LR2/LR2_TB_isim_beh.exe
+Fuse Memory Usage: 29776 KB
+Fuse CPU Usage: 687 ms

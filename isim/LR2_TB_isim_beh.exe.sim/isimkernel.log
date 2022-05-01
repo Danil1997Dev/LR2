@@ -1,0 +1,28 @@
+Command line:
+   LR2_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51563
+
+Thu Apr 14 11:18:44 2022
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 5167.75 Meg
+
+ Total Signals          : 22
+ Total Nets             : 30
+ Total Signal Drivers   : 13
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 22
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 127
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5482.32 Meg
+
+Thu Apr 14 11:19:24 2022
+

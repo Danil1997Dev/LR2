@@ -1,0 +1,4 @@
+verilog work "LR2_OUT.v"
+verilog work "LR2.v"
+verilog work "LR2_TB.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
